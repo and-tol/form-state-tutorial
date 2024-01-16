@@ -10,10 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "all": "^0.0.0",
     "date-fns": "^2.30.0",
-    "react": "^18.3.0-canary-6c7b41da3-20231123",
-    "react-dom": "^18.3.0-canary-6c7b41da3-20231123"
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
